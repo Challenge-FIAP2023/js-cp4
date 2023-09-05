@@ -4,7 +4,7 @@ function Sobre() {
 
     return(
         <>
-        <p>sobre</p>
+            <p>imagem + paragrafo com lorem20</p>
         </>
     )
 }

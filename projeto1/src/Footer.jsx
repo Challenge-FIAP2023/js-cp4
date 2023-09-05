@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         <>
-        <p>footer</p>
+            <p>telefone e email</p>
         </>
     )
 }

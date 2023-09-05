@@ -4,7 +4,7 @@ function Produtos() {
 
     return(
         <>
-            <p>produtos</p>
+            <p>4 imagens com seus titulos</p>
         </>
     )
 }
