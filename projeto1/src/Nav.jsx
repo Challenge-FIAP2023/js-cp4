@@ -4,7 +4,7 @@ function Nav() {
 
     return(
         <>
-        
+        <p>navvv</p>
         </>
     )
 }

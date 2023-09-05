@@ -1,4 +1,5 @@
 import { } from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Nav from './Nav'
 import Home from './Home'
 import Produtos from './Produtos'
@@ -10,7 +11,15 @@ function App() {
 
   return (
     <>
-      
+      <BrowserRouter>
+      <Nav/>
+        <Routes>
+          <Route path='/' element={<Home/>}/>
+          <Route path='/' element={<Produtos/>}/>
+          <Route path='/' element={<Sobre/>}/>
+        </Routes>
+      <Footer/>
+      </BrowserRouter>
     </>
   )
 }
