@@ -4,7 +4,9 @@ function Sobre() {
 
     return(
         <>
-            <p>imagem + paragrafo com lorem20</p>
+            <p>imagem</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis justo non libero cursus, a consequat nisl.</p>
+            
         </>
     )
 }
