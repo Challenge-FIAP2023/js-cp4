@@ -1,5 +1,5 @@
 import { } from 'react'
-import Foto from "./img/45184mn.jpg"
+import Foto from "./img/sherek.png"
 
 function Sobre() {
 
