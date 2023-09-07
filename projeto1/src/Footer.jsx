@@ -4,7 +4,8 @@ function Footer() {
 
     return (
         <>
-            <p>telefone e email</p>
+            <p>(11) 96308-6776</p>
+            <p>henrilopes1@gmail.com</p>
         </>
     )
 }
