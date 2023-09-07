@@ -1,12 +1,14 @@
 import { } from 'react'
+import Foto from "./img/45184mn.jpg"
 
 function Sobre() {
 
-    return(
+    return (
+
         <>
-            <p>imagem</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis justo non libero cursus, a consequat nisl.</p>
+            <img src= {Foto} alt="" />
             
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, id eveniet? A, dolores laboriosam. Perspiciatis, aut? Ipsa minus voluptatem nihil.</p>
         </>
     )
 }
